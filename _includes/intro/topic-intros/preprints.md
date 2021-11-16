@@ -1,13 +1,12 @@
-Training on preprints helps researchers disseminate their research more rapidly and widely using preprint archives.
+This is an introductory workshop on the Galaxy platform (https://usegalaxy.org/), an open-source platform for doing research and analysis in genomics, bioinformatics, structural bioinformatics proteomics, molecular evolution, imaging, etc. A huge amount of data has been generated in biological experiments at molecular levels, which need to be analyzed for knowledge discovery and its applications. However, such a type of analysis requires huge computational infrastructure as well as a variety of software tools to be used in a particular sequence to complete a required task. Galaxy provides cloud-based data resources as well as integrated software tools that can be easily accessed and even combined to create reproducible workflows for teaching as well as research. Such features have made galaxy a very popular and frequently used platform around the world, turning users to be a part of the huge Galaxy community. However, a large number of researchers in life sciences from underdeveloped and developing countries, particularly from remote locations are not aware of Galaxy, its use, and its applications. 
 
-This training will teach researchers to:
-* **find archives**
-* understand how **preprinting changes the journal publication workflow**
-* identify **when **to publish a preprint
-* **publish an article** as a preprint
-* understand issues surrounding the **interpretation of preprints** by non-expert readers
 
-_Training on preprints introduces you to the fundamentals of preprinting and
-provides you with practical tools for preprinting actual manuscripts. It also acts as a
-platform for further self-directed learning.
-Other UKRN Open Research topics can be found in the [list of UKRN Primers](https://ukrn.org/primers/)._
+This workshop is therefore aimed to achieve the following outcomes: -
+* understand how **to use login and use the Galaxy server**
+* understand how **upload data into Galaxy server or how to use the existing data sets**
+* identify **various types of software tools ** 
+* apply **which tools **to be used to perform a specific analysis  
+* create **a reproducible workflow** for genome assembly
+
+
+
