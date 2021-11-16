@@ -1,3 +1,3 @@
 ### Requirements
-* Participants must have access to a computer with a Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on.
-* They should have a few specific software packages installed (listed [below](#setup)).
+* Participants must have access to a computer with internet (preferably good bandwidth) 
+* Participants must have the Zoom app installed on their computers.
