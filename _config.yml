@@ -3,20 +3,18 @@ workshop_id: ITG
 topic: preprints
 title: "Introduction to Galaxy Platform "
 instructors:
-  - "Harpreet "
-  - Singh
+  - Harpreet Singh
 instructor_emails:
   - harpreetsingh05@gmail.com
-  - harpreetsingh05@gmail.com
-helpers: []
+helpers:
+  - Harsh
+  - Harjas
 start_times:
   - 09|00
 setup_files: []
 language: en
 venue: online
-address: |-
-  H. No. 235
-  SG Enclave Phase1 Majitha Road
+address: Hans Raj Mahila Maha Vidyalaya Jalandhar
 country: IN
 latitude: null
 longitude: null
